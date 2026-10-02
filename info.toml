@@ -1,0 +1,9 @@
+[meta]
+name = "Screen Filters"
+version = "0.1.0"
+author = "AnythingGoes"
+description = "Changes the look of the whole game: noir, old film, vaporwave, neon night, golden hour and more, with an intensity slider."
+min_host = "0.21.0"
+
+[script]
+files = ["main.as"]
